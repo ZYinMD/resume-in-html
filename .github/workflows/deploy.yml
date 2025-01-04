@@ -18,15 +18,16 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v4
 
-      - name: Install Deno
-        uses: denoland/setup-deno@v2
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
         with:
-          deno-version: v1.x
+          version: 9
 
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
+          cache: "pnpm" # I did this by trial and error, not knowing what it does
 
       - name: Install step
         run: "pnpm install"
@@ -40,5 +41,3 @@ jobs:
           project: "resume-in-html"
           entrypoint: "mod.ts"
           root: "build"
-          
-          
