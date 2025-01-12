@@ -1,3 +1,12 @@
 {
-  "explorer.sortOrder": "filesFirst"
+  "explorer.sortOrder": "filesFirst",
+  "search.exclude": {
+    ".svelte-kit": true,
+    "pnpm-lock.yaml": true,
+    "build": true,
+    "node_modules": true
+  },
+  "files.exclude": {
+    "node_modules": true
+  }
 }
