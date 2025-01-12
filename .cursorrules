@@ -1,0 +1,10 @@
+
+Use Svelte5, the latest version of Svelte, which introduced runes. Use Sveltekit2, the latest version of Sveltekit, which uses Svelte 5.
+
+Organize files using SvelteKit's file-based routing system.
+
+Use TypeScript.
+
+Use Svelte's built-in transition and animation features
+
+Create .svelte files for Svelte components, use PascalCase for filenames. Use .svelte.ts files for component logic and state machines.
