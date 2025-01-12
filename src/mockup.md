@@ -23,7 +23,7 @@
 
 ## Tools I used that weren't mentioned above (**bold** = currently using in production):
 
-- Browser techs: **ServiceWorkers, PWA, Workbox, IndexedDB, File System Access API, Broadcast Channel**
+- modern web APIs: **ServiceWorkers, PWA, Workbox, IndexedDB, File System Access API, Broadcast Channel**
 - **Stripe**
 - VSCode Dev Containers
 - Google Cloud: **Cloud Error Reporting, Cloud Schedular, gapi libraries**
