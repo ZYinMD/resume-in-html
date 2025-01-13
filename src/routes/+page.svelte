@@ -16,7 +16,6 @@
   .narrow {
     width: 800px;
     max-width: 100%;
-    padding: 20px;
-    background-color: #fff;
+    padding: 20px 3px;
   }
 </style>

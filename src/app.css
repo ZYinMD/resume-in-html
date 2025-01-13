@@ -1,9 +1,16 @@
 body {
+  --nunito: Nunito, "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --sans: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  --primary: rgb(25, 155, 200);
+  --secondary: rgb(240, 131, 185);
+  --grey: #777;
   background-color: #eee;
-  font-size: 18px;
   font-weight: 100;
+  font-family: var(--sans);
 }
-
+strong {
+  font-weight: 400;
+}
 *,
 *::before,
 *::after {
