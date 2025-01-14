@@ -6,9 +6,7 @@
 
 <div class="component">
   <section>
-    <h2>Zeeingsoft LLC</h2>
-    <div class="year">2017-2025</div>
-    <!-- <p>2017-2025</p> -->
+    <h2>2017-2025, Zeeingsoft LLC</h2>
     <p>My one-person company, doing whatever projects that interest me. No freelancing.</p>
     <p>
       1/10 of these projects end up becoming for-profit, but they make less than $500k per year
@@ -60,14 +58,49 @@
       </li>
     </ul>
   </section>
+  <section>
+    <h2>2019, Perficient</h2>
+    <p>
+      "Technical Associate". Worked on a Blue Cross Blue Shield web portal for 3 months, mostly
+      frontend.
+    </p>
+  </section>
+  <section>
+    <h2>2017, watched some Demis Hassabis interviews</h2>
+    <p>
+      This was the time when I realized doctors will be replaced by AI, and I decided to jump ship.
+    </p>
+  </section>
+  <section>
+    <h2>2014-2016, USMLE exams</h2>
+    <p>The lengthy licensing exams for doing residency in the US.</p>
+  </section>
+  <section>
+    <h2>2013-2014, University of Rochester Medical Center</h2>
+    <p>Registered nurse</p>
+  </section>
+  <section>
+    <h2>2012, University of Rochester</h2>
+    <p>
+      A one year program of a "2nd Bachelor Degree in Nursing". This was my initial means to enter
+      the US, as an international student.
+    </p>
+  </section>
+  <section>
+    <h2>Before 2012</h2>
+    <p>
+      Medical school at Fudan University, a top 5 in China.<br />Residency in Surgery, at the
+      teaching hospital affiliated to the university.
+    </p>
+  </section>
 </div>
 
 <style>
-  .component :global(.year) {
-    font-size: 18px;
-    /* color: var(--grey); */
-    font-family: var(--nunito);
-    margin: 5px 0;
+  h2 {
+    font-size: 22px;
+    color: var(--primary);
+    font-weight: 300;
+    margin: 0 0 0 -1px;
   }
   ul {
     padding-left: 15px;
@@ -84,24 +117,22 @@
   }
   img.inline-image {
     vertical-align: middle;
+    position: relative;
   }
   img.tiktok {
     height: 1.3em;
-    position: relative;
     top: -1.5px;
     margin: 0 2px 0 2px;
   }
   img.google-tasks {
-    height: 1.5em;
-    position: relative;
+    height: 1.6em;
     top: -1.5px;
     margin: 0 2px 0 1px;
   }
   img.marvel-snap {
     height: 1.3em;
-    position: relative;
     top: -1px;
-    margin: 0 2px 0 1px;
+    margin: 0 2px;
     border-radius: 3px;
   }
   a {
