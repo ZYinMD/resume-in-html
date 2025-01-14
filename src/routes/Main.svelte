@@ -40,7 +40,7 @@
     </ol>
   </section>
   <section>
-    <h2>Tools I used that weren't mentioned above:</h2>
+    <h2>Tools I use that weren't mentioned above:</h2>
     <div class="h2-subtitle">
       (recent first, <strong>bold</strong> = currently using in production)
     </div>
@@ -73,7 +73,7 @@
       <li>ffmpeg</li>
       <li>npm and jsr publishing</li>
       <li>scraping with Puppeteer / Playwright</li>
-      <li>development of VSCode themes</li>
+      <li>making VSCode themes</li>
       <li>publish PWA to WindowsStore, PWA to GoogleWorkspace (gsuite), TWA to Android</li>
     </ol>
   </section>
