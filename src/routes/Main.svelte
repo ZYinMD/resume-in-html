@@ -1,12 +1,12 @@
 <script lang="ts">
   import Techs from "./Techs/Techs.svelte";
-  import Zeeingsoft from "./Zeeingsoft/Zeeingsoft.svelte";
+  import Timeline from "./Timeline/Timeline.svelte";
 </script>
 
 <!-- @component the main content -->
 <main class="component">
   <Techs />
-  <Zeeingsoft />
+  <Timeline />
 </main>
 
 <style>
