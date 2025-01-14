@@ -66,9 +66,10 @@
     </p>
   </section>
   <section>
-    <h2>2017, watched some Demis Hassabis interviews</h2>
+    <h2>2017, watched a Demis Hassabis interview</h2>
     <p>
-      This was the time when I realized doctors will be replaced by AI, and I decided to jump ship.
+      This was the time when I realized physicians will be replaced by AI, and I decided to jump
+      ship.
     </p>
   </section>
   <section>
@@ -96,8 +97,11 @@
 </div>
 
 <style>
+  .component {
+    margin: 30px 0;
+  }
   h2 {
-    font-size: 22px;
+    font-size: 21px;
     color: var(--primary);
     font-weight: 300;
     margin: 0 0 0 -1px;

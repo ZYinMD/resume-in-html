@@ -9,5 +9,5 @@
   "files.exclude": {
     "node_modules": true
   },
-  "cSpell.words": ["Certbot", "gapi", "Squarespace"]
+  "cSpell.words": ["Certbot", "Demis", "gapi", "Hassabis", "Perficient", "Squarespace"]
 }

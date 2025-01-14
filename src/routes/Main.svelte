@@ -11,6 +11,6 @@
 
 <style>
   .component :global(section) {
-    margin: 30px 0 0;
+    margin: 20px 0;
   }
 </style>
