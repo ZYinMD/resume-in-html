@@ -23,5 +23,5 @@ a {
   color: var(--primary);
 }
 a:visited {
-  color: DarkBlue;
+  color: rgb(0, 60, 140);
 }

@@ -1,7 +1,7 @@
 <script lang="ts">
   import tiktokIcon from "./tiktok-icon.png";
   import googleTasksIcon from "./google-tasks-icon.png";
-  import marvelsnapIcon from "./marvel-snap-icon.webp";
+  import marvelSnapIcon from "./marvel-snap-icon.webp";
 </script>
 
 <div class="component">
@@ -16,8 +16,8 @@
     </p>
     <ul>
       <li>
-        If you happen to be a <img class="inline-image tiktok" src={tiktokIcon} /> user, and want to
-        download all your [ Likes / Favorites / Followings ] to MP4s for safekeeping, then check out
+        If you're a <img class="inline-image tiktok" src={tiktokIcon} /> user, and you happen to
+        want to download all your [ Likes / Favorites / Followings ] to MP4s for safekeeping, try
         <a
           href="https://chrome.google.com/webstore/detail/gmajiifkcmjkehmngbopoobeplhoegad"
           target="_blank"
@@ -36,7 +36,7 @@
         >. (150k MAU)
       </li>
       <li>
-        Else if you happen to play <img class="inline-image marvelsnap" src={marvelsnapIcon} />,
+        Else if you happen to play <img class="inline-image marvel-snap" src={marvelSnapIcon} />,
         check out
         <a href="https://marvelsnap-on-screen.zyinmd.me/" target="_blank" rel="noopener noreferrer"
           >this project</a
@@ -45,6 +45,18 @@
           target="_blank"
           rel="noopener noreferrer">1.2k likes on reddit</a
         >)
+      </li>
+      <li>
+        Else if you happen to need to give a 6yo some math practice, check out
+        <a href="https://kindergartenmath.zyinmd.me/" target="_blank" rel="noreferrer">this</a>.
+      </li>
+      <li>
+        Else: instead of bothering you with another 20 niche projects, just look at <a
+          href="/contributions.png"
+          target="_blank"
+          rel="noopener noreferrer">this screenshot</a
+        >
+        and imagine.
       </li>
     </ul>
   </section>
@@ -84,7 +96,7 @@
     top: -1.5px;
     margin: 0 2px 0 1px;
   }
-  img.marvelsnap {
+  img.marvel-snap {
     height: 1.3em;
     position: relative;
     top: -1px;
