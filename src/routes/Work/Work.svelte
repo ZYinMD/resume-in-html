@@ -51,7 +51,7 @@
         <a href="https://kindergartenmath.zyinmd.me/" target="_blank" rel="noreferrer">this</a>.
       </li>
       <li>
-        Else: instead of bothering you with another 20 niche projects, just look at <a
+        Else: instead of bothering you with another 20 niche projects, please look at <a
           href="/contributions.png"
           target="_blank"
           rel="noopener noreferrer">this screenshot</a
@@ -65,7 +65,7 @@
 <style>
   .component :global(.year) {
     font-size: 18px;
-    color: var(--grey);
+    /* color: var(--grey); */
     font-family: var(--nunito);
     margin: 5px 0;
   }
@@ -83,15 +83,16 @@
     line-height: 1.4;
   }
   img.inline-image {
-    height: 1.2em;
     vertical-align: middle;
   }
   img.tiktok {
+    height: 1.3em;
     position: relative;
     top: -1.5px;
+    margin: 0 2px 0 2px;
   }
   img.google-tasks {
-    height: 1.4em;
+    height: 1.5em;
     position: relative;
     top: -1.5px;
     margin: 0 2px 0 1px;

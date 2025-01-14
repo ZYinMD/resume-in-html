@@ -104,7 +104,7 @@
     font-family: var(--nunito);
     color: var(--primary);
     font-weight: 200;
-    margin: 0;
+    margin: 0 0 0 -1px;
   }
   .component :global(.h2-subtitle) {
     font-size: 22px;
