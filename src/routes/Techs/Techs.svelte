@@ -79,13 +79,6 @@
 </div>
 
 <style>
-  h2 {
-    font-size: 32px;
-    font-family: var(--nunito);
-    color: var(--primary);
-    font-weight: 200;
-    margin: 0 0 0 -1px;
-  }
   .h2-subtitle {
     font-size: 22px;
     font-family: var(--nunito);

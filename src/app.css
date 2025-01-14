@@ -1,7 +1,7 @@
 body {
   --nunito: Nunito, "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
   --sans: "Segoe UI", "Open Sans", -apple-system, BlinkMacSystemFont, sans-serif;
-  --primary: rgb(21, 150, 215);
+  --primary: rgb(15, 145, 210);
   --secondary: rgb(240, 131, 185);
   --grey: #666;
   background-color: #eee;
@@ -20,7 +20,8 @@ strong {
   box-sizing: border-box;
 }
 a {
-  color: var(--primary);
+  color: rgb(0, 140, 205);
+  /* filter: brightness(0.9); */
 }
 a:visited {
   color: rgb(0, 60, 140);

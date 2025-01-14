@@ -6,7 +6,7 @@
 
 <div class="component">
   <section>
-    <h2>2017-2025, Zeeingsoft LLC</h2>
+    <h3>2017-2025, Zeeingsoft LLC</h3>
     <p>My one-person company, doing whatever projects that interest me. No freelancing.</p>
     <p>
       1/10 of these projects end up becoming for-profit, but they make less than $500k per year
@@ -59,36 +59,36 @@
     </ul>
   </section>
   <section>
-    <h2>2019, Perficient</h2>
+    <h3>2019, Perficient</h3>
     <p>
       "Technical Associate". Worked on a Blue Cross Blue Shield web portal for 3 months, mostly
       frontend.
     </p>
   </section>
   <section>
-    <h2>2017, watched a Demis Hassabis interview</h2>
+    <h3>2017, watched a Demis Hassabis interview</h3>
     <p>
       This was the time when I realized physicians will be replaced by AI, and I decided to jump
       ship.
     </p>
   </section>
   <section>
-    <h2>2014-2016, USMLE exams</h2>
+    <h3>2014-2016, USMLE exams</h3>
     <p>The lengthy licensing exams for doing residency in the US.</p>
   </section>
   <section>
-    <h2>2013-2014, University of Rochester Medical Center</h2>
+    <h3>2013-2014, University of Rochester Medical Center</h3>
     <p>Registered nurse</p>
   </section>
   <section>
-    <h2>2012, University of Rochester</h2>
+    <h3>2012, University of Rochester</h3>
     <p>
       A one year program of a "2nd Bachelor Degree in Nursing". This was my initial means to enter
       the US, as an international student.
     </p>
   </section>
   <section>
-    <h2>Before 2012</h2>
+    <h3>Before 2012</h3>
     <p>
       Medical school at Fudan University, a top 5 in China.<br />Residency in Surgery, at the
       teaching hospital affiliated to the university.
@@ -100,7 +100,7 @@
   .component {
     margin: 30px 0;
   }
-  h2 {
+  h3 {
     font-size: 21px;
     color: var(--primary);
     font-weight: 300;
