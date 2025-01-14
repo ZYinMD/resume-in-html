@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Work from "./Work/Work.svelte";
+  import Zeeingsoft from "./Zeeingsoft/Zeeingsoft.svelte";
 </script>
 
 <!-- @component the main content -->
@@ -77,7 +77,7 @@
       <li>publish PWA to WindowsStore, PWA to GoogleWorkspace (gsuite), TWA to Android</li>
     </ol>
   </section>
-  <Work />
+  <Zeeingsoft />
 </main>
 
 <style>
