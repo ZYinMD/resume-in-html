@@ -61,12 +61,12 @@
   <section>
     <h3>2019, Perficient</h3>
     <p>
-      "Technical Associate". Worked on a Blue Cross Blue Shield web portal for 3 months, mostly
-      frontend.
+      "Technical Associate". Worked on a Blue Cross Blue Shield web portal for 3 months, nothing
+      fancy.
     </p>
   </section>
   <section>
-    <h3>2017, watched a Demis Hassabis interview</h3>
+    <h3>2017, watched some Demis Hassabis interviews</h3>
     <p>
       This was the time when I realized physicians will be replaced by AI, and I decided to jump
       ship.
@@ -83,14 +83,14 @@
   <section>
     <h3>2012, University of Rochester</h3>
     <p>
-      A one year program of a "2nd Bachelor Degree in Nursing". This was my initial means to enter
-      the US, as an international student.
+      A one year program for "2nd Bachelor Degree in Nursing". This was my initial means to enter
+      America, as an international student.
     </p>
   </section>
   <section>
     <h3>Before 2012</h3>
     <p>
-      Medical school at Fudan University, a top 5 in China.<br />Residency in Surgery, at the
+      Medical school at Fudan University, a top 5 in China.<br />Residency in Surgery, at a top
       teaching hospital affiliated to the university.
     </p>
   </section>

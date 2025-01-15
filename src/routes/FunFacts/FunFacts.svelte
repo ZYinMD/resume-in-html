@@ -15,7 +15,7 @@
       Critical Thinking Ability of 99 percentile
       <br />
       <a href="/critical-thinking.pdf" target="_blank" rel="noopener noreferrer"
-        >University of Rochester entry assessment [PDF]</a
+        >University of Rochester entrance assessment [PDF]</a
       >
       <br />
       (some sort of research they were doing)
