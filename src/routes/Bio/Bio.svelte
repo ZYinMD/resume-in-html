@@ -12,7 +12,7 @@
   <p>Programmer. Used to be a surgeon.</p>
   <p>
     <span class="item"> <EmailIcon />zyinmd@gmail.com</span>
-    <span class="item"> <LocationIcon />Washington DC, 20007</span>
+    <span class="item"> <LocationIcon />Washington DC</span>
   </p>
   <p>
     <span class="item">
@@ -43,6 +43,7 @@
   .item {
     color: var(--grey);
     margin-right: 0.5em;
+    white-space: nowrap;
   }
   .component :global(a) {
     color: var(--grey);
