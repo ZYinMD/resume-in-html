@@ -1,4 +1,5 @@
 <script lang="ts">
+  import Bio from "./Bio/Bio.svelte";
   import FunFacts from "./FunFacts/FunFacts.svelte";
   import Techs from "./Techs/Techs.svelte";
   import Timeline from "./Timeline/Timeline.svelte";
@@ -6,6 +7,7 @@
 
 <!-- @component the main content -->
 <main class="component">
+  <Bio />
   <Techs />
   <Timeline />
   <FunFacts />
