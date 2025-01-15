@@ -1,7 +1,7 @@
 <script lang="ts">
-  import tiktokIcon from "./tiktok-icon.png";
   import googleTasksIcon from "./google-tasks-icon.png";
   import marvelSnapIcon from "./marvel-snap-icon.webp";
+  import tiktokIcon from "./tiktok-icon.png";
 </script>
 
 <div class="component">
@@ -9,7 +9,7 @@
     <h3>2017-2025, Zeeingsoft LLC</h3>
     <p>My one-person company, doing whatever projects that interest me. No freelancing.</p>
     <p>
-      1/10 of these projects end up becoming for-profit, but they make less than $500k per year
+      1/10 of these projects end up becoming for-profit, but they make less than $50k per year
       combined. The cool way of saying it is "I don't do it for the money".
     </p>
     <ul>
