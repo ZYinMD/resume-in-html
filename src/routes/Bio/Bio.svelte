@@ -40,4 +40,9 @@
     letter-spacing: 0.02em;
     text-decoration: none;
   }
+  @media (min-width: 800px) {
+    .component {
+      margin-top: 25px;
+    }
+  }
 </style>
