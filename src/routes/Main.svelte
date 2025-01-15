@@ -15,7 +15,7 @@
 
 <style>
   .component {
-    padding: 10px 0 30px;
+    padding: 15x 0 30px;
   }
   .component :global(section) {
     margin: 20px 0;

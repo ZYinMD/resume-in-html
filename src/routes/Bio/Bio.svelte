@@ -15,13 +15,13 @@
     <span class="item"> <LocationIcon />Washington DC, 20007</span>
   </p>
   <p>
-    <span class="item"> <GithubIcon /><a href="https://github.com/ZYinMD">/ZYinMD</a></span>
+    <span class="item"> <a href="https://github.com/ZYinMD"><GithubIcon />/ZYinMD</a></span>
     <span class="item">
-      <StackOverflowIcon /><a href="https://stackoverflow.com/users/8886456/zyinmd">/ZYinMD</a
+      <a href="https://stackoverflow.com/users/8886456/zyinmd"><StackOverflowIcon />/ZYinMD</a
       ></span
     >
     <span class="item">
-      <LinkedInIcon /><a href="https://www.linkedin.com/in/ZYinMD/">/ZYinMD</a></span
+      <a href="https://www.linkedin.com/in/ZYinMD/"><LinkedInIcon />/ZYinMD</a></span
     >
   </p>
 </div>
